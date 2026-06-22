@@ -1,3 +1,4 @@
+"""
 Credit Risk Scoring — Full Streamlit App
 =========================================
 Run:   streamlit run app.py
